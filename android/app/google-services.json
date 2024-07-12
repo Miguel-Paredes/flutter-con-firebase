@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303225427238",
+    "project_id": "flutter-5226c",
+    "storage_bucket": "flutter-5226c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303225427238:android:f7497bc389632cda399de7",
+        "android_client_info": {
+          "package_name": "com.repaso.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4t93hNlmdshBSymMgt15vRHtnPxGhkrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
